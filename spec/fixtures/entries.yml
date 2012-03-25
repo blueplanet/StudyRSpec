@@ -1,0 +1,19 @@
+# encoding=utf-8
+kakutani_earliest:
+  id: 1
+  blog_id: 1
+  title: "tDiaryにしてみる"
+  body: "多分何ですが、Octopressでいいじゃない？"
+  posted_on: 2012-03-23
+kakutani_latest:
+  id: 2
+  blog_id: 1
+  title: "Re:「autotest」てなに？"
+  body: "自動でテストを走る奴なんだよ"
+  posted_on: 2012-03-22
+moro_rspec_upgrading:
+  id: 3
+  blog_id: 2
+  title: "[rspec] RSpecのバージョン"
+  body: "今時はインストールすると、2.9なんだよ"
+  posted_on: 2012-03-20
